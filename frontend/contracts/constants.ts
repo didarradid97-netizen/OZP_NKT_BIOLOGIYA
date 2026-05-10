@@ -1,0 +1,7 @@
+export const LOGIN_PATH = "/login";
+export const API_URL = "/api";
+export const GROQ_MODEL = "llama-3.3-70b-versatile";
+
+export const Paths = {
+  oauthCallback: "/api/oauth/callback",
+};
